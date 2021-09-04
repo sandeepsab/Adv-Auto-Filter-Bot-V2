@@ -12,11 +12,11 @@
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID From my.telegram.org or @movie_culb_arena",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash From my.telegram.org or @films_arena",
             "value": ""
         },
         "BOT_TOKEN": {
